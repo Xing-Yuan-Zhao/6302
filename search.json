@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a Ph.D. student in political science in UTD EPPS department.\nCoordinator: Mamie Cincotta"
+  },
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "A movie survey demonstration\n\nSurvey Analysis\nThe survey start with a message to the participants, followed with a list of preference choices about the movie consumption, then the survey asked a series of questions regarding their opinions upon certain issues, and finished with demographic and economic status questions.\nThe race and zip code questions are not found in Demographics/US demographics survey.\n\n\nImprovements\n\nBot detection: Google reCAPTCHA integration has been enabled.\n\nWhat else should be done:\n\nTexts in question 2 is too long for that format. Participants with low vision, reading capability or disabilities may have disadvantages completing the survey, so they may be under represented in the data.\nQuestion 2 5 and 6 may be not mobile friendly depending users’ device.\n\n\n\nFurther assignment:\nThe Diversity and Inclusiveness Survey cannot be found under your library/Qualtrics library.\nBut when compared with the similar questions under Demographics/Demographics, the income and education questions are different.\nFor the income quesiton, the demographic question has a better articulated, because it specified geussing for the previous year’s pre tax income.\nIn the demographic question, the step width of the income question smaller and the range is wider.\nEducation question is not mentioned in the movie survey."
   }
 ]

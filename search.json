@@ -26,5 +26,12 @@
     "title": "Assignment 2",
     "section": "",
     "text": "1. Contact List and Distribution\nDone by using Qualtrics.\n\n\n2. Google Trends Data\nGoogle Trend of the two candidates this year in US.\n\n\n\nGoogle Trend of the two candidates this year in US\n\n\nGoogle Trend difference of the two candidates this year in US\n\n\n\nGoogle Trend difference of the two candidates this year in US\n\n\nGoogle Trend of election this year in US\n\n\n\nGoogle Trend of election this year in US\n\n\nThe two vertical lines represent the date when Trump attempted assassination (red) and when Biden dropped out (blue).\nWe can see that even though the two events may not increase the search for election, they did increase the trends for the candidates respectively. Even though the increase in search trend for Harris was still lower than Trump’s highest number, the impact of the second event (Biden’s dropout) on the difference in the trend was indeed strong."
+  },
+  {
+    "objectID": "assignment3.html",
+    "href": "assignment3.html",
+    "title": "Assignment 3",
+    "section": "",
+    "text": "3. Text Data Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4. What is wordfish?\nWordfish is a unsupervised method. It clusters documents into positional relations based on the observed word frequencies."
   }
 ]
